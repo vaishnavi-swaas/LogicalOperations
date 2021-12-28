@@ -17,7 +17,7 @@ namespace logicaloperator2
                 Console.WriteLine(+a +"is not equal to" + b);
                 if(a<b)
                 {
-                    Console.WriteLine("a is small");
+                    Console.WriteLine("a is small");//hii
                 }
                 else
                 {
