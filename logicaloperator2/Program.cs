@@ -18,6 +18,8 @@ namespace logicaloperator2
                 if(a<b)
                 {
                     Console.WriteLine("a is small");//hii
+
+
                 }
                 else
                 {
